@@ -1,11 +1,11 @@
 # Google Apps Analysis Dashboard
 
 ## Overview
-This dashboard provides a comprehensive analysis of Google Play Store app data from 2010 t0 2018 offering valuable insights into various app categories, installs, reviews, ratings, and user sentiment. It is designed to help aspiring developers understand app trends, user preferences, and opportunities for app development and improvement. 
+This dashboard provides a comprehensive analysis of Google Play Store app data from 2010 to 2018, offering valuable insights into various app categories, installs, reviews, ratings, and user sentiment. It is designed to help aspiring developers understand app trends, user preferences, and opportunities for app development and improvement. 
 
 ### Data Source
 The data used was obtained from kaggle: https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore_user_reviews.csv
-It contains two datasets: googleplaystore.csv and googleplaystore_user_reviews
+It contains two datasets: googleplaystore.csv and googleplaystore_user_reviews.
 
 
 ### Key Insights from the Dashboard
